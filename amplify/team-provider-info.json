@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-traxapp-dev-123955-authRole",
+      "UnauthRoleArn": "arn:aws:iam::982070654376:role/amplify-traxapp-dev-123955-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::982070654376:role/amplify-traxapp-dev-123955-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-traxapp-dev-123955-deployment",
+      "UnauthRoleName": "amplify-traxapp-dev-123955-unauthRole",
+      "StackName": "amplify-traxapp-dev-123955",
+      "StackId": "arn:aws:cloudformation:us-east-1:982070654376:stack/amplify-traxapp-dev-123955/7bd05b40-0e48-11ed-977d-0af4657edddf",
+      "AmplifyAppId": "d37qrpe79fyogx",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-traxapp-dev-123955-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "traxapp578d9e06": {}
+      },
+      "function": {
+        "traxfunction": {
+          "deploymentBucketName": "amplify-traxapp-dev-123955-deployment",
+          "s3Key": "amplify-builds/traxfunction-6659364378516d62526a-build.zip"
+        }
+      }
+    }
+  }
+}
